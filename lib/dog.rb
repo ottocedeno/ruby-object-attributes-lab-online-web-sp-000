@@ -7,4 +7,8 @@ class Dog
   def name
     @name
   end
+
+  def breed=(do_breed)
+
+  end
 end
