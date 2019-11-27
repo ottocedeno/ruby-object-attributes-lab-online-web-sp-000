@@ -13,6 +13,6 @@ class Person
   end
 
   def jobs
-
+    @job
   end
 end
